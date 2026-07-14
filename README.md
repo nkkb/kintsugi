@@ -15,7 +15,7 @@ object is whole again even after pieces are lost.
 ## Install
 
 ```bash
-pip install kintsugi
+pip install kintsugiV01
 ```
 
 Or from a checkout:
